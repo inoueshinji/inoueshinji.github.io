@@ -10,7 +10,7 @@ body
     line-height: 1.6;
     letter-spacing: .1em;
     color: #4c4c4c;
-    background-color: #FFCDC2;
+    background-color: #F9FAFA;
 }
 
 a
@@ -141,7 +141,7 @@ section h2
 
 #skills
 {
-    background-color: #90FFD6;
+    background-color: #33160C;
 }
 #skills .container
 {
@@ -166,7 +166,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #fdfcf6;
+    background-color: #F9FAFA;
 }
 #skills i
 {
@@ -304,7 +304,7 @@ section h2
     margin-right: 0;
 }
 #contact ul .github,
-#contact ul .skype
+#contact ul .facebook
 {
     font-size: 3.2rem;
 }
@@ -332,5 +332,5 @@ footer
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: #bea300;
+    background-color: #33160C;
 }
